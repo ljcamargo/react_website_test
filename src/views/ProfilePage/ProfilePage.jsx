@@ -180,6 +180,7 @@ class ProfilePage extends React.Component {
 
                             
                             <img src={
+                              
                               "https://backend-stg.medspacemarketing.com/" 
                               + 
                               (professional 
